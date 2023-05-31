@@ -1,4 +1,4 @@
-### Olá Bem vindo (a) ao perfil da Gabriele Jesus 👋👩‍💻
+### Olá Bem vindo (a) ao perfil de Gabriele Jesus👋👩‍💻
 
 <div>
   <a href="https://github.com/gabriele-jesus">
