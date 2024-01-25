@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-<h2>Let's Connect!  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" alt="HTML"></h2> 
+<div>Let's Connect!<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" alt="HTML"></div> 
  
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
